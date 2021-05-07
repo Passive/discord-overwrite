@@ -1,6 +1,6 @@
 # Title: Discord Overwrite / Corruption bug
 # Description: This bug forces the user to install updates again, randomly found bug and is a nice addition to my collection. I have been experimenting
-# Test 1 (RPC): Rich presence seems to get somewhat disabled until the user restarts the app providing the status
+# Test 1 (RPC): Rich presence seems to get somewhat disabled until the user restartthe application (normal behaviour)
 # Test 2 (Multiple URI's): No new results after 3 tries, seems I may have gotten lucky with my update screen but hey! There is always a chance im missing something
 # Notes: I spent way too long finding this, please at least appreciate my effort!
 
